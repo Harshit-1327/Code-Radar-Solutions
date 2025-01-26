@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 
-int a=20;
-int b=10;
+float a=20;
+float b=10;
 int main() {
     scanf("%d", a);
     printf("%s", b);
