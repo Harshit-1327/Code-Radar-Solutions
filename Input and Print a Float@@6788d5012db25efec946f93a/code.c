@@ -1,7 +1,7 @@
 #include <stdio.h>
-float a=20;
+float a=3.14;
 int main() {
-    scanf("%d",a) 
-    printf("%d", a);
+    scanf("You entered: %d",a) 
+    printf("You entered: %d", a);
     return 0;
 }
