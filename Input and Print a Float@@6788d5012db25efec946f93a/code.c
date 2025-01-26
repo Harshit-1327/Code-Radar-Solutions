@@ -1,8 +1,7 @@
 #include <stdio.h>
 float a=20;
-
 int main() {
- 
-    printf("%s", a);
+    scanf("%d",a) 
+    printf("%d", a);
     return 0;
 }
