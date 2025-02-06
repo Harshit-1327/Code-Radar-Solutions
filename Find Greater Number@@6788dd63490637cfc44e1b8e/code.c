@@ -6,5 +6,5 @@ int main(){
     printf("%d",a);
     else
     printf("%d",b);
-    retunr 0;
+    return 0;
 }
