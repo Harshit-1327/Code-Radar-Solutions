@@ -3,8 +3,8 @@ int main(){
     int age;
     scanf("%d",&age);
     if (age>=60)
-    printf("Eligibel");
+    printf("Eligible");
     else
-    printf("Not Eligibel");
+    printf("Not Eligibele");
     return 0:
 }
