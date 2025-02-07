@@ -10,7 +10,7 @@ int main(){
     printf("C");
     if else (a>=60 && a<70)
     printf("D");
-    if else (a<60 && a>=0)
+    if else (a<60)
     printf("F");
     else
     printf("Invalid Marks")
