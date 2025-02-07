@@ -4,13 +4,13 @@ int main(){
     scanf("%d",&a);
     if (100>=a && a>=90)
     printf("A");
-    if else (a>=80 && a<90)
+    else if (a>=80 && a<90)
     printf("B");
-    if else (a>=70 && a<80)
+    else if (a>=70 && a<80)
     printf("C");
-    if else (a>=60 && a<70)
+    else  if(a>=60 && a<70)
     printf("D");
-    if else (a<60)
+    else  if(a<60)
     printf("F");
     else
     printf("Invalid Marks")
