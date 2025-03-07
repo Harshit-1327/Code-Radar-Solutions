@@ -2,8 +2,8 @@
 int main(){
     int a,count=0;
     scanf("%d",&a);
-    while((n&(1<<31))==0&&count<32){
-        n<<=1;
+    while((a&(1<<31))==0&&count<32){
+        a<<=1;
         count++;
     }
     printf("%d",count);
